@@ -1,3 +1,20 @@
-# Final Project: <b>Pixel-Art-Maker</b>
-<br/>Final project for ALC 7 Days of Code Challenge
-<br/>Link: https://ernestofosu05.github.io/final-project-pixel-art-maker/.
+# Pixel Art Maker Project
+
+## Table of Contents
+
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+
+## Project Link
+
+Page link: [Pixel Art Maker](https://ernestofosu05.github.io/final-project-pixel-art-maker/) or https://ernestofosu05.github.io/final-project-pixel-art-maker/
+
+## Instructions
+
+To get started, open `designs.js` and start building out the app's functionality.
+
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
